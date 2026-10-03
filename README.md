@@ -1,99 +1,70 @@
+<h1 align="center">
+  <img src="./name.svg" alt="Jonathan Samuel" width="100%"/>
+</h1>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" alt="Tech Background" width="100%" height="200" style="object-fit: cover; border-radius: 10px;" />
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=15&pause=2000&color=999999&center=true&vCenter=true&width=500&lines=Desarrollador+Full-Stack+%7C+Backend+Engineer;Java+%C2%B7+Spring+Boot+%C2%B7+Bases+de+datos;Apasionado+por+los+datos+y+el+deporte" alt="Typing"/>
+</p>
 
+---
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=26&pause=1000&color=00E5FF&center=true&vCenter=true&width=800&lines=⚡+Full-Stack+Engineer+⚡;🔥+Backend+Specialist+🔥;🌌+Cloud+Architecture+Explorer+🌌;🚀+Building+Scalable+Solutions+🚀" alt="Typing" />
-</div>
+<p align="justify">
+Soy desarrollador Full-Stack con enfoque en <b>Backend</b>. Me gusta trabajar con Java, Spring Boot y bases de datos relacionales. Me interesa que el código sea claro, mantenible y que resuelva el problema de verdad.
+</p>
 
+<p align="justify">
+Tengo experiencia en todo el stack — APIs, React, Docker — y actualmente estoy aprendiendo más sobre <b>infraestructura en la nube (AWS / Azure)</b>. Fuera del código me apasionan los <b>datos y el análisis deportivo</b>. También estoy mejorando mi inglés poco a poco.
+</p>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
-</div>
+---
 
+<p align="center"><b>Backend</b></p>
 
-<h2 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Magic%20Wand.png" width="35" /> Executive Summary</h2>
+```
+Java · Spring Boot · Node.js · Express.js · MySQL
+```
 
-> **Soy un Full-Stack Developer con un fuerte enfoque en la ingeniería Backend.** 
-> Me apasiona el diseño de sistemas robustos, la resolución de problemas de alta complejidad lógica y la creación de arquitecturas limpias. Fuera del IDE, soy un gran entusiasta de los datos y el análisis deportivo.
-> 
-> 🚀 **Objetivos actuales:**
-> * ☁️ Profundizando en **Arquitecturas Cloud (AWS/Azure)** y despliegue de contenedores.
-> * 🗣️ Perfeccionando continuamente mi nivel de **Inglés (B2)**.
-> * 🛡️ Fuerte interés en la construcción de **APIs seguras, Networking y Ciberseguridad**.
+<p align="center"><b>Frontend</b></p>
 
-<br>
+```
+JavaScript (ES6+) · React · HTML5 · CSS3 · Tailwind CSS · GSAP
+```
 
+<p align="center"><b>Infraestructura &amp; Herramientas</b></p>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
-</div>
+```
+Docker · AWS · Azure · Linux · Git · Networking &amp; Ciberseguridad
+```
 
+---
 
-<h2 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Crystal%20Ball.png" width="35" /> Tech Arsenal</h2>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jonathan25sam&amp;theme=github_dark" width="100%"/>
+</p>
 
-<div align="center">
-  <p><b>Backend & Bases de Datos</b></p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Jonathan25sam&amp;show_icons=true&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=ffffff&amp;text_color=999999&amp;icon_color=ffffff&amp;count_private=true" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jonathan25sam&amp;layout=compact&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=ffffff&amp;text_color=999999" width="40%"/>
+</p>
 
-<div align="center">
-  <p><b>Frontend & UI</b></p>
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white" />
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Jonathan25sam&amp;hide_border=true&amp;background=0d1117&amp;ring=ffffff&amp;fire=ffffff&amp;currStreakLabel=999999&amp;sideLabels=999999&amp;dates=555555&amp;currStreakNum=ffffff&amp;sideNums=ffffff" width="60%"/>
+</p>
 
-<div align="center">
-  <p><b>Infraestructura & Cloud</b></p>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
-  <img src="https://img.shields.io/badge/Networking_%26_Security-100000?style=for-the-badge&logo=linux&logoColor=white" />
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+</p>
 
-<br>
+---
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
-</div>
-
-<h2 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="35" /> GitHub Analytics & Trophies</h2>
-
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Jonathan25sam&theme=tokyonight&row=1&column=6&margin-w=15&margin-h=15&no-frame=true&no-bg=true" alt="Trophies" />
-</div>
-
-<br>
-
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jonathan25sam&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" width="100%" />
-</div>
-
-<br>
-
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jonathan25sam&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jonathan25sam&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" width="48%" />
-</div>
-
-<br>
-
-
-<div align="center">
-  <p><b>📫 Let's Connect!</b></p>
-  <a href="mailto:tu-correo@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://linkedin.com/in/tu-perfil-aqui"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-</div>
+<p align="center">
+  <a href="mailto:tu-correo@gmail.com">
+    <img src="https://img.shields.io/badge/Correo-000000?style=flat-square&amp;logo=gmail&amp;logoColor=white" alt="Gmail"/>
+  </a>
+  &nbsp;
+  <a href="https://linkedin.com/in/tu-perfil">
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=flat-square&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn"/>
+  </a>
+  &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=Jonathan25sam&amp;color=000000&amp;style=flat-square&amp;label=visitas" alt="Visitas"/>
+</p>
