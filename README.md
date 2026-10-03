@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=15&pause=2000&color=999999&center=true&vCenter=true&width=500&lines=Desarrollador+Full-Stack+%7C+Backend+Engineer;Java+%C2%B7+Spring+Boot+%C2%B7+Bases+de+datos;Apasionado+por+los+datos+y+el+deporte" alt="Typing"/>
 </p>
 
----
+
 
 <p align="justify">
 Soy desarrollador Full-Stack con enfoque en <b>Backend</b>. Me gusta trabajar con Java, Spring Boot y bases de datos relacionales. Me interesa que el código sea claro, mantenible y que resuelva el problema de verdad.
@@ -16,7 +16,6 @@ Soy desarrollador Full-Stack con enfoque en <b>Backend</b>. Me gusta trabajar co
 Tengo experiencia en todo el stack — APIs, React, Docker — y actualmente estoy aprendiendo más sobre <b>infraestructura en la nube (AWS / Azure)</b>. Fuera del código me apasionan los <b>datos y el análisis deportivo</b>. También estoy mejorando mi inglés poco a poco.
 </p>
 
----
 
 <p align="center"><b>Backend</b></p>
 
@@ -36,7 +35,7 @@ JavaScript (ES6+) · React · HTML5 · CSS3 · Tailwind CSS · GSAP
 Docker · AWS · Azure · Linux · Git · Networking &amp; Ciberseguridad
 ```
 
----
+
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jonathan25sam&amp;theme=github_dark" width="100%"/>
@@ -55,7 +54,7 @@ Docker · AWS · Azure · Linux · Git · Networking &amp; Ciberseguridad
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </p>
 
----
+
 
 <p align="center">
   <a href="mailto:tu-correo@gmail.com">
